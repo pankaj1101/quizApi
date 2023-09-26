@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "The Earth is flat.",
+      "answer": "false"
+    },
+    {
+      "question": "Water boils at 100 degrees Celsius at sea level.",
+      "answer": "true"
+    },
+    {
+      "question": "The sun rises in the west and sets in the east.",
+      "answer": "false"
+    },
+    {
+      "question": "Humans can breathe underwater without assistance.",
+      "answer": "false"
+    },
+    {
+      "question": "The moon is made of green cheese.",
+      "answer": "false"
+    },
+    {
+      "question": "The capital of France is Paris.",
+      "answer": "true"
+    },
+    {
+      "question": "A square has three sides.",
+      "answer": "false"
+    },
+    {
+      "question": "The Earth orbits the sun.",
+      "answer": "true"
+    },
+    {
+      "question": "Cats can fly.",
+      "answer": "false"
+    },
+    {
+      "question": "Gravity makes objects fall towards the Earth.",
+      "answer": "true"
+    }
+  ]
+}
